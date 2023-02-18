@@ -1,2 +1,4 @@
-# mille-plateaux
-1000 3D Tiles dataset from Project PLATEAU
+# mille-plateaux: Thousand 3D Tiles from Project PLATEAU
+
+# Demo
+https://optgeo.github.io/mille-plateaux/view.html#QmRDCc2nxZjtwxQjWB85KdHDctsojiB6pYbmR8PfSXVjJH
