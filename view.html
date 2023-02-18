@@ -21,7 +21,9 @@ const viewer = new Cesium.Viewer("cesiumContainer", {
   terrainProvider: new Cesium.CesiumTerrainProvider({
     url: Cesium.IonResource.fromAssetId(770371)
   }),
-  timeline: false
+  animation: false,
+  timeline: false,
+  homeButton: false
 });
 const imageProvider = new Cesium.UrlTemplateImageryProvider({ 
   url: 'https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/ortho/tiles/{z}/{x}/{y}.png', maximumLevel : 19
@@ -36,7 +38,7 @@ let cid = r.length == 1 ? 'QmWK1h24FDmxfvJoB7WY7VVzu5yYB85vHXz2HW9edq5MAc' : r[1
 const tileset = new Cesium.Cesium3DTileset({
   url: `https://x.optgeo.org/ipfs/${cid}/tileset.json`,
   enableDebugWireframe: true,
-	});
+});
 viewer.scene.primitives.add(tileset);
 
 tileset.readyPromise.then(function () {
