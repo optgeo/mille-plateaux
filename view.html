@@ -33,7 +33,8 @@ viewer.scene.globe.depthTestAgainstTerrain = true;
 // viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
 const inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
 
-const r = document.location.href.split('#');
+const r = document.location.href.split('?');
+if (r.length == 1) { r = document.location.href.split('#'); }
 let cid = r.length == 1 ? 'QmWK1h24FDmxfvJoB7WY7VVzu5yYB85vHXz2HW9edq5MAc' : r[1];
 const tileset = new Cesium.Cesium3DTileset({
   url: `https://x.optgeo.org/ipfs/${cid}/tileset.json`,
