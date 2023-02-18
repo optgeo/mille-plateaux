@@ -31,7 +31,7 @@ const imageProvider = new Cesium.UrlTemplateImageryProvider({
 const current_image = viewer.scene.imageryLayers.addImageryProvider(imageProvider); 
 viewer.scene.globe.depthTestAgainstTerrain = true;
 // viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
-const inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
+// const inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
 
 const r = document.location.href.split('?');
 if (r.length == 1) { r = document.location.href.split('#'); }
