@@ -30,7 +30,7 @@ const imageProvider = new Cesium.UrlTemplateImageryProvider({
 });
 const current_image = viewer.scene.imageryLayers.addImageryProvider(imageProvider); 
 viewer.scene.globe.depthTestAgainstTerrain = true;
-viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
+// viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
 const inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
 
 const r = document.location.href.split('#');
