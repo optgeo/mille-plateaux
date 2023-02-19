@@ -1,10 +1,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>mille-plateaux viewer</title>
+<title>mille-plateaux viewer 2</title>
 <script src="https://cesium.com/downloads/cesiumjs/releases/1.102/Build/Cesium/Cesium.js"></script>
 <link href="https://cesium.com/downloads/cesiumjs/releases/1.102/Build/Cesium/Widgets/widgets.css" rel="stylesheet"></link>
-<meta property="og:image" content="https://repository-images.githubusercontent.com/603445772/55a074cf-78ee-4d84-b963-470fff698228"/>
+<meta property="og:image"
+  content="https://repository-images.githubusercontent.com/603445772/55a074cf-78ee-4d84-b963-470fff698228"/>
 <style>
 #cesiumContainer { position: absolute; top: 0; left: 0; height: 100%; width: 100%; margin: 0; 
   overflow: hidden; padding: 0; font-family: sans-serif; }
@@ -26,9 +27,9 @@ const viewer = new Cesium.Viewer("cesiumContainer", {
   sceneModePicker: false,
   timeline: false
 })
-const imageProvider = new Cesium.UrlTemplateImageryProvider({ 
-  url: 'https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/ortho/tiles/{z}/{x}/{y}.png', maximumLevel : 19
-})
+// const imageProvider = new Cesium.UrlTemplateImageryProvider({ 
+//   url: 'https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/ortho/tiles/{z}/{x}/{y}.png', maximumLevel : 19
+// })
 const current_image = viewer.scene.imageryLayers.addImageryProvider(imageProvider)
 viewer.scene.globe.depthTestAgainstTerrain = true
 
