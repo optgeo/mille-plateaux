@@ -34,13 +34,14 @@ viewer.scene.globe.depthTestAgainstTerrain = true
 
 const searchParams = new URLSearchParams(window.location.search)
 let cid = searchParams.get('cid') || 'QmWK1h24FDmxfvJoB7WY7VVzu5yYB85vHXz2HW9edq5MAc'
+
 const tileset = new Cesium.Cesium3DTileset({
   url: `https://x.optgeo.org/ipfs/${cid}/tileset.json`,
   enableDebugWireframe: true,
 })
 viewer.scene.primitives.add(tileset)
 
-const credit = new Cesium.Credit({text: '国土交通省'})
+const credit = new Cesium.Credit('国土交通省')
 viewer.scene.frameState.creditDisplay.addDefaultCredit(credit)
 
 tileset.readyPromise.then(function () {
