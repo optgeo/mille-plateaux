@@ -30,7 +30,7 @@ const viewer = new Cesium.Viewer("cesiumContainer", {
 // const imageProvider = new Cesium.UrlTemplateImageryProvider({ 
 //   url: 'https://gic-plateau.s3.ap-northeast-1.amazonaws.com/2020/ortho/tiles/{z}/{x}/{y}.png', maximumLevel : 19
 // })
-const current_image = viewer.scene.imageryLayers.addImageryProvider(imageProvider)
+// const current_image = viewer.scene.imageryLayers.addImageryProvider(imageProvider)
 viewer.scene.globe.depthTestAgainstTerrain = true
 
 const searchParams = new URLSearchParams(window.location.search)
