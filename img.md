@@ -1,4 +1,12 @@
 # screenshots
+[![01100_sapporo-shi_2020_bldg_low_resolution](img/01100_sapporo-shi_2020_bldg_low_resolution.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmU9KUkSJTNUW7fjUA2xrxJfUKmUGCZTz2mpmsBTvGjRpJ)
+
+[![01100_sapporo-shi_2020_bldg_notexture](img/01100_sapporo-shi_2020_bldg_notexture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmR2kcUkcCpB28Mrj9wpuytLQYcAA64Y2teAMzcNxLJCaS)
+
+[![01100_sapporo-shi_2020_bldg_texture](img/01100_sapporo-shi_2020_bldg_texture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmUhu8CX1U7mkQDoFMb4pt2ZAXJpwJhXiahtyxV2kftmqz)
+
+[![07204_iwaki-shi_2020_bldg_low_resolution](img/07204_iwaki-shi_2020_bldg_low_resolution.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmQhsgkuofuUUWLQBR6bVzg6n2LDPjviurgnBJ6NqNAL4P)
+
 [![13101_chiyoda-ku_2020_bldg_low_resolution](img/13101_chiyoda-ku_2020_bldg_low_resolution.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmdwK7n2UMTHCyrVv4jjYvv5ZsX4ECqyzYmLRLUFJf6Bo1)
 
 [![13101_chiyoda-ku_2020_bldg_notexture](img/13101_chiyoda-ku_2020_bldg_notexture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmZFEzKDxCyK5n9rL24q4xd65WATqfo4eJ8TAzf2zZCJHw)
@@ -82,4 +90,8 @@
 [![13123_edogawa-ku_2020_bldg_notexture](img/13123_edogawa-ku_2020_bldg_notexture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmdbQh68Tq457w3UpawrQ18UDGtAbSGsdxMEfocHWVyma)
 
 [![17201_kanazawa-shi_2020_bldg_notexture](img/17201_kanazawa-shi_2020_bldg_notexture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=Qmdmmn4ifwfK6Z2dvobFBYHEK33gqBCR579Tb8ccvKLbMs)
+
+[![22203_numazu-shi_2021_bldg_low_resolution](img/22203_numazu-shi_2021_bldg_low_resolution.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmaHkDXfnZ3FcGvKyx94f1DNY9JXHqtU67UC4WAs4qXnKR)
+
+[![22203_numazu-shi_2021_bldg_notexture](img/22203_numazu-shi_2021_bldg_notexture.png)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmWWX4SSLaqAGUXsrzdsGAQiw3Zg2uWATSzPX5knjApDsx)
 
