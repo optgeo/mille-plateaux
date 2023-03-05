@@ -26,6 +26,15 @@
 ## 09201_utsunomiya-shi_2020_bldg_texture
 [![09201_utsunomiya-shi_2020_bldg_texture](img/09201_utsunomiya-shi_2020_bldg_texture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmQDbmU11qDLik8gixmUokLsCcER74HHWCQtLnaafuttN6)
 
+## 11326_moroyama-machi_2020_bldg_low_resolution
+[![11326_moroyama-machi_2020_bldg_low_resolution](img/11326_moroyama-machi_2020_bldg_low_resolution.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmbN3wxprT1V9TKewVMtd8t2pPDQwr5LxmePHHn7BcsEKY)
+
+## 11326_moroyama-machi_2020_bldg_notexture
+[![11326_moroyama-machi_2020_bldg_notexture](img/11326_moroyama-machi_2020_bldg_notexture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmdLkw5wVxB5zmGNJf9MrUFRq927f1kQXyNSZgeLAW4Xhb)
+
+## 11326_moroyama-machi_2020_bldg_texture
+[![11326_moroyama-machi_2020_bldg_texture](img/11326_moroyama-machi_2020_bldg_texture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmYDEMzckbrWSzCHWGAM2icrZhtHQp9mQkZCuvHQ1EzRjn)
+
 ## 13101_chiyoda-ku_2020_bldg_low_resolution
 [![13101_chiyoda-ku_2020_bldg_low_resolution](img/13101_chiyoda-ku_2020_bldg_low_resolution.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmdwK7n2UMTHCyrVv4jjYvv5ZsX4ECqyzYmLRLUFJf6Bo1)
 
@@ -164,8 +173,26 @@
 ## 14150_sagamihara-shi_2020_bldg_notexture
 [![14150_sagamihara-shi_2020_bldg_notexture](img/14150_sagamihara-shi_2020_bldg_notexture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmNz9XNPmUpArQDPLmXroX2RXHWMgjd8yz3PFEEEza5iUr)
 
+## 15100_niigata-shi_2020_bldg_low_resolution
+[![15100_niigata-shi_2020_bldg_low_resolution](img/15100_niigata-shi_2020_bldg_low_resolution.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmP5aR1HSVxxiUPB6o9XV7nsqvjtg8QAGbFNQAerVYGaJk)
+
+## 15100_niigata-shi_2020_bldg_notexture
+[![15100_niigata-shi_2020_bldg_notexture](img/15100_niigata-shi_2020_bldg_notexture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmQK8ZYFJuewSbcwgfEPzmX6hb5Vbrxsa2HhpYTMuguYMT)
+
+## 15100_niigata-shi_2020_bldg_texture
+[![15100_niigata-shi_2020_bldg_texture](img/15100_niigata-shi_2020_bldg_texture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmZMJXMUhL1xYhtXXm6rkH124C2YLDrJwsrNtzdiUF6Axw)
+
 ## 17201_kanazawa-shi_2020_bldg_notexture
 [![17201_kanazawa-shi_2020_bldg_notexture](img/17201_kanazawa-shi_2020_bldg_notexture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=Qmdmmn4ifwfK6Z2dvobFBYHEK33gqBCR579Tb8ccvKLbMs)
+
+## 20202_matsumoto-shi_2020_bldg_low_resolution
+[![20202_matsumoto-shi_2020_bldg_low_resolution](img/20202_matsumoto-shi_2020_bldg_low_resolution.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmQjCpD5Dh6quF1FbbbQfCBurR51VZEm6TC99xLdGAYUeE)
+
+## 20202_matsumoto-shi_2020_bldg_notexture
+[![20202_matsumoto-shi_2020_bldg_notexture](img/20202_matsumoto-shi_2020_bldg_notexture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmTHKSxduWn9nnKVhdQHeRRbtpqb5o1igwu6NhUcpcg87W)
+
+## 20202_matsumoto-shi_2020_bldg_texture
+[![20202_matsumoto-shi_2020_bldg_texture](img/20202_matsumoto-shi_2020_bldg_texture.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmXWTHRDP45FxkscH593pRS8NVYctEHJW7nLA2XoZAmugX)
 
 ## 22203_numazu-shi_2020_bldg_low_resolution
 [![22203_numazu-shi_2020_bldg_low_resolution](img/22203_numazu-shi_2020_bldg_low_resolution.jpg)](https://optgeo.github.io/mille-plateaux/v.html?cid=QmXc2cTToDo4yK9o63k8D8K2PMVS6Tw8s5LDKDTjo93Jy8)

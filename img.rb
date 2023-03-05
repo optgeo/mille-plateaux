@@ -23,6 +23,7 @@ npx playwright screenshot --wait-for-timeout=#{wait} \
 
   EOS
   w.flush
+  next if File.exist?(img_path)
   print "#{count}: #{cmd}"
   system cmd
 }
