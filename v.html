@@ -39,7 +39,7 @@ const searchParams = new URLSearchParams(window.location.search)
 let cid = searchParams.get('cid') || 'QmWK1h24FDmxfvJoB7WY7VVzu5yYB85vHXz2HW9edq5MAc'
 
 const tileset = new Cesium.Cesium3DTileset({
-  url: `https://x.optgeo.org/ipfs/${cid}/tileset.json`,
+  url: `https://smb.optgeo.org/ipfs/${cid}/tileset.json`,
   enableDebugWireframe: true,
 })
 viewer.scene.primitives.add(tileset)
